@@ -1,2 +1,3 @@
 nginx
 ollama/ollama:latest
+ghcr.io/open-webui/open-webui
