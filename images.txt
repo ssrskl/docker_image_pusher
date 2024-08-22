@@ -1,3 +1,4 @@
 nginx
 ollama/ollama:latest
 ghcr.io/open-webui/open-webui
+apache/hive:3.1.3
