@@ -7,3 +7,4 @@ atlassian/confluence:8.5.16
 haxqer/confluence:9.1.0
 mysql:8.0
 outlinewiki/outline:latest
+pydio/cells:latest
